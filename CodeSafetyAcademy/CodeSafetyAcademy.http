@@ -1,0 +1,6 @@
+@CodeSafetyAcademy_HostAddress = http://localhost:5096
+
+GET {{CodeSafetyAcademy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
